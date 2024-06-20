@@ -12,7 +12,7 @@ O projeto consiste em um aplicativo Desktop conectado ao banco de dados MySQL
 
 ```bash
 ## Clone o projeto
-git clone https://github.com/rksex/sistema-de-registro-electron.git
+git clone https://github.com/RickLustri/sistema-de-registro-electron.git
 
 ## Entre na pasta do projeto
 cd sistema-de-registro-electron
